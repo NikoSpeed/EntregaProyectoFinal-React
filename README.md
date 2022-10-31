@@ -1,1 +1,1 @@
-# EntregaProyectoFinal-React
+Este proyecto lo hice a modo de un hipotetico caso de e-commerce, mi idea era hacer algo que tuviera aplicado todos los conocimientos y herramientas adquiridos durante la cursada y que sea funcional mas no real. Me queda a modo de ejemplo de como lograr desarrollar una página con react y pude lograr ese objetivo. La idea nacio de un juego llamado Hollow Knight, la pagina simula una venta de objetos que se encuentran dentro del juego mismo.
